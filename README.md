@@ -1,4 +1,4 @@
-# gRPC Rust Demo
+# gRPC Rust for flam 
 
 This is the repository for the blog post [Building gRPC APIs with Rust][blog]
 at [Kong][kong].
